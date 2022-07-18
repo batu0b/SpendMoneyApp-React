@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "title": "sakız",
+        "price": 0.5
+    },
+
+    {
+        "id": 2,
+        "title": "ayakkabı",
+        "price": 120
+    },
+
+    {
+        "id": 3,
+        "title": "telefon",
+        "price": 1000
+    },
+
+    {
+        "id": 4,
+        "title": "araba",
+        "price": 5000
+    }
+]
